@@ -1,3 +1,3 @@
 <?php
- echo "<h3>Hola Mundo desde otro archivo</h3>"
+ echo "<h3>Hola Mundo desde el archivo 2 versión 2</h3>"
 ?>
