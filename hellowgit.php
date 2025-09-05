@@ -1,4 +1,6 @@
 <?php
 
-    echo "<h3>Hellow Github</h3>"
+
+    echo "<h3>New Hellow GitHub!</h3>"
+
 ?>
