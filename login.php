@@ -1,4 +1,4 @@
 <?php
 
-    echo "Primer archivo de la rama login";
+    echo "Versión 2 del archivo login";
 ?>
